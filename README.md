@@ -15,6 +15,9 @@ I prerendered the 8-ball and the "Fortune Prism" in Blender, trying to make it l
 Once I had my objects, they were inserted into my site, and transposed over an intentionally white background, for focus on the ball and the fortune prism. After that, I transplanted the demo tools we made in class for RiTa generation into those elements, and created a style element for <p> that would orient the text properly into the fortune prism.
   
 The text result is based from each possible result in a magic 8-ball, mixed into unique responses that have a range of eclecticity and coherence. 
+  
+ https://i.gyazo.com/501192ba80561003b904483dcd06dea7.jpg
+ The blender scene hosting the assets
 
 EXECUTION
   
